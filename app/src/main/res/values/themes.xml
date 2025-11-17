@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.BechDia" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color (BechDia red) -->
+        <item name="colorPrimary">#EF4444</item>
+        <item name="colorPrimaryDark">#DC2626</item>
+        <item name="colorAccent">#EC4899</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <!-- Background color - WHITE to match splash -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- Remove window content transitions for instant appearance -->
+        <item name="android:windowContentTransitions">false</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#1F2937</item>
+        <item name="android:textColorSecondary">#6B7280</item>
+    </style>
+</resources>

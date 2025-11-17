@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BechDia</string>
+
+    <!-- Loading & Progress -->
+    <string name="loading">Loading…</string>
+
+    <!-- Offline Screen -->
+    <string name="no_internet">No Internet Connection</string>
+    <string name="check_connection">Please check your connection and try again</string>
+    <string name="retry">Retry</string>
+
+    <!-- Exit Dialog -->
+    <string name="exit_app">Exit BechDia?</string>
+    <string name="exit_message">Do you want to exit the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Errors -->
+    <string name="error">Error</string>
+    <string name="error_loading">Error loading page. Please try again.</string>
+    <string name="page_not_found">Page not found (404)</string>
+    <string name="server_error">Server error (500)</string>
+    <string name="service_unavailable">Service unavailable (503)</string>
+    <string name="ssl_error">SSL Certificate Error. Connection is not secure.</string>
+
+    <!-- Dialogs -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Downloads -->
+    <string name="downloading">Downloading file…</string>
+    <string name="download_failed">Download failed</string>
+
+    <!-- Permissions & External Links -->
+    <string name="no_app_found">No app found to handle this action</string>
+    <string name="cannot_open_link">Cannot open external link</string>
+    <string name="camera_permission_required">Camera permission required for photo upload</string>
+    <string name="file_chooser_error">Error opening file chooser</string>
+    <string name="choose_file">Choose File</string>
+</resources>
