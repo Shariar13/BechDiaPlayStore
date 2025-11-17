@@ -9,6 +9,7 @@ import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.bechdia.app.MainActivity
 import com.bechdia.app.R
 
 @SuppressLint("CustomSplashScreen")
