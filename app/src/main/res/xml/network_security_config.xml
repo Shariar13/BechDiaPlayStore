@@ -18,12 +18,5 @@
         </trust-anchors>
     </domain-config>
 
-    <!-- Debug overrides (remove in production) -->
-    <debug-overrides>
-        <trust-anchors>
-            <certificates src="system" />
-            <!-- Add user certificates for debugging if needed -->
-            <certificates src="user" />
-        </trust-anchors>
-    </debug-overrides>
+    <!-- Debug overrides removed for production release -->
 </network-security-config>
